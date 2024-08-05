@@ -5,6 +5,5 @@
 ##### 💬 Ask me about SQL/Python/PowerBI
 ##### 📫 How to reach me: tanlocnguyen.work@gmail.com
 
-### My social account
 
 
